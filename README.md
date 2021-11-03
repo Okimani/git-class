@@ -1,2 +1,2 @@
 # git-class
-Class Project learning HTML and CSS
+Class Project learning Git, HTML and CSS
