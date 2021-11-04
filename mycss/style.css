@@ -29,4 +29,17 @@
                     float: right;
                 }
     
-                   
+                .listone {
+                    Color:#CC0000
+                    
+                }
+
+                    .listwo {
+                        Color:#336699
+                        }
+                        .absolutep {
+                            position: absolute;
+                            top:50px;
+                            right:80px;
+                            color: rgb(245, 97, 97);
+                            }
