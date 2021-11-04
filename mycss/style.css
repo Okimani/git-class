@@ -43,3 +43,21 @@
                             right:80px;
                             color: rgb(245, 97, 97);
                             }
+
+                            .centertext {
+                                text-align: center;
+                                color: rgb(136, 10, 10);
+                                }
+                                .left {
+                                    text-align: left;
+                                    color: rgb(105, 34, 219);
+                                    }
+                                    .right {
+                                        text-align: right;
+                                        color: indigo;                          
+                                        }
+                                        .centrediv {
+                                            display: block;
+                                            margin: auto;
+                                            width: 550px;                          
+                                            }
