@@ -11,5 +11,22 @@
             }
 
             .footnote {
-                Color: green
+                Color:#6600cc
                 }
+                .styleone {
+                    padding-left: 5px;
+                    padding-right: 5px;
+                    padding-top: 5px;
+                    border: 7px solid #FFCC00;
+                    float: left;
+                }
+                
+                .styletwo {
+                    padding-left: 5px;
+                    padding-right: 5px;
+                    padding-top: 5px;
+                    border: 7px solid #CC0000;
+                    float: right;
+                }
+    
+                   
